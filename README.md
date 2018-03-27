@@ -49,7 +49,7 @@ ___
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-![Github Logo]()
+![Github Logo](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
 
 <!-- Github Markdown -->
 
